@@ -1,1 +1,1 @@
-print("hello auro-digital")
+print("hello auro-cdigital")
